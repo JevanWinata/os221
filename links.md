@@ -25,4 +25,9 @@ Google sana Google sini
 4. [Youtube](https://youtube.com)<br>
 Find/search something usefull related to course
 
+5. [Linux Commands](https://hackr.io/blog/basic-linux-commands)<br>
+Basic Linux commands src: hackr.io
+
+6. [Linux Commands](https://hackr.io/blog/basic-linux-commands)<br>
+Basic Linux commands src: hackr.io
 
