@@ -28,6 +28,7 @@ Find/search something usefull related to course
 5. [Linux Commands](https://hackr.io/blog/basic-linux-commands)<br>
 Basic Linux commands src: hackr.io
 
-6. [Linux Commands](https://hackr.io/blog/basic-linux-commands)<br>
-Basic Linux commands src: hackr.io
+6. [C language](https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,fun%20and%20easy%20to%20learn!)<br>
+Learn C++ Language src: w3schools
+
 
