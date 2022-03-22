@@ -43,3 +43,11 @@ ZCZC W04 10 L04 GitHub Pages related
 ZCZC W04 60 L09 Weekly Assignments
 ZCZC W04 45 L06 Reading (OSC10) Silberschatz
 ZCZC W04 25 L11 Trying previous Midterm problems
+
+ZCZC W05 30 L00 General
+ZCZC W05 20 L01 SCELE
+ZCZC W05 100 L02 ZOOM meetings
+ZCZC W05 15 L03 Github related
+ZCZC W05 10 L04 GitHub Pages related
+ZCZC W05 95 L09 Weekly Assignments
+ZCZC W05 80 L06 Reading (OSC10) Silberschatz
