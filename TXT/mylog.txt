@@ -71,3 +71,14 @@ ZCZC W07  50 L05 QUIZ
 ZCZC W07  50 L09 Weekly Assignments
 ZCZC W07  10 L21 Trying something
 ZCZC W07  60 L06 Reading (OSC10) Silberschatz et. al.: Operating System Concepts
+
+ZCZC W08  30 L00 General, etc.
+ZCZC W08  15 L01 SCELE/Discord related
+ZCZC W08  90 L02 ZOOM meetings related
+ZCZC W08  20 L03 GitHub related
+ZCZC W08  15 L04 GitHub Pages related
+ZCZC W08  50 L05 QUIZ
+ZCZC W08  50 L09 Weekly Assignments
+ZCZC W08  10 L21 Trying something
+ZCZC W08  60 L06 Reading (OSC10) Silberschatz et. al.: Operating System Concepts
+ZCZC W08  85 L06 Reading LinuxFromScratch Ch. 1-5
